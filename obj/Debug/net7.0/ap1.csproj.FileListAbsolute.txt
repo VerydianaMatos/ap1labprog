@@ -1,0 +1,15 @@
+C:\Users\Very\Documents\Laboratório de Programação\ap1\bin\Debug\net7.0\ap1.exe
+C:\Users\Very\Documents\Laboratório de Programação\ap1\bin\Debug\net7.0\ap1.deps.json
+C:\Users\Very\Documents\Laboratório de Programação\ap1\bin\Debug\net7.0\ap1.runtimeconfig.json
+C:\Users\Very\Documents\Laboratório de Programação\ap1\bin\Debug\net7.0\ap1.dll
+C:\Users\Very\Documents\Laboratório de Programação\ap1\bin\Debug\net7.0\ap1.pdb
+C:\Users\Very\Documents\Laboratório de Programação\ap1\obj\Debug\net7.0\ap1.csproj.AssemblyReference.cache
+C:\Users\Very\Documents\Laboratório de Programação\ap1\obj\Debug\net7.0\ap1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Very\Documents\Laboratório de Programação\ap1\obj\Debug\net7.0\ap1.AssemblyInfoInputs.cache
+C:\Users\Very\Documents\Laboratório de Programação\ap1\obj\Debug\net7.0\ap1.AssemblyInfo.cs
+C:\Users\Very\Documents\Laboratório de Programação\ap1\obj\Debug\net7.0\ap1.csproj.CoreCompileInputs.cache
+C:\Users\Very\Documents\Laboratório de Programação\ap1\obj\Debug\net7.0\ap1.dll
+C:\Users\Very\Documents\Laboratório de Programação\ap1\obj\Debug\net7.0\refint\ap1.dll
+C:\Users\Very\Documents\Laboratório de Programação\ap1\obj\Debug\net7.0\ap1.pdb
+C:\Users\Very\Documents\Laboratório de Programação\ap1\obj\Debug\net7.0\ap1.genruntimeconfig.cache
+C:\Users\Very\Documents\Laboratório de Programação\ap1\obj\Debug\net7.0\ref\ap1.dll
